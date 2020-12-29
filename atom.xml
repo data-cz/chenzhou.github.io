@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小白~前端</title>
+  
+  <subtitle>一清二白</subtitle>
+  <link href="https://github.com/data-cz/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/data-cz/"/>
+  <updated>2020-12-14T08:32:04.000Z</updated>
+  <id>https://github.com/data-cz/</id>
+  
+  <author>
+    <name>Chenzhou</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/data-cz/2020/12/29/%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AAvue-cli4+webpack%E7%A7%BB%E5%8A%A8%E7%AB%AF%E6%A1%86%E6%9E%B6/"/>
+    <id>https://github.com/data-cz/2020/12/29/%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AAvue-cli4+webpack%E7%A7%BB%E5%8A%A8%E7%AB%AF%E6%A1%86%E6%9E%B6/</id>
+    <published>2020-12-29T08:48:04.582Z</published>
+    <updated>2020-12-14T08:32:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;这是基于 vue-cli4</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/data-cz/2020/12/29/%E6%80%BB%E7%BB%9318%E4%B8%AAwebpack%E6%8F%92%E4%BB%B6/"/>
+    <id>https://github.com/data-cz/2020/12/29/%E6%80%BB%E7%BB%9318%E4%B8%AAwebpack%E6%8F%92%E4%BB%B6/</id>
+    <published>2020-12-29T08:48:04.577Z</published>
+    <updated>2020-12-14T08:32:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Plugin&quot;&gt;&lt;a href=&quot;#Plugin&quot; class=&quot;headerlink&quot; title=&quot;Plugin&quot;&gt;&lt;/a&gt;Plugin&lt;/h1&gt;&lt;p&gt;何为插件(Plugin)？专注处理 webpack</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/data-cz/2020/12/29/%E4%BB%8E%E9%9B%B6%E6%9E%84%E5%BB%BA%E5%88%B0%E4%BC%98%E5%8C%96%E4%B8%80%E4%B8%AA%E7%B1%BB%E4%BC%BCvue-cli%E7%9A%84%E8%84%9A%E6%89%8B%E6%9E%B6/"/>
+    <id>https://github.com/data-cz/2020/12/29/%E4%BB%8E%E9%9B%B6%E6%9E%84%E5%BB%BA%E5%88%B0%E4%BC%98%E5%8C%96%E4%B8%80%E4%B8%AA%E7%B1%BB%E4%BC%BCvue-cli%E7%9A%84%E8%84%9A%E6%89%8B%E6%9E%B6/</id>
+    <published>2020-12-29T08:48:04.576Z</published>
+    <updated>2020-12-14T08:32:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;想必大多数人在开发 vue 等 SPA 项目都时候都会直接用 &lt;code&gt;vue-cli&lt;/code&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/data-cz/2020/12/29/%E4%BB%8E%E9%9B%B6%E6%9E%84%E5%BB%BA%E4%B8%80%E4%B8%AAwbpack%E9%A1%B9%E7%9B%AE/"/>
+    <id>https://github.com/data-cz/2020/12/29/%E4%BB%8E%E9%9B%B6%E6%9E%84%E5%BB%BA%E4%B8%80%E4%B8%AAwbpack%E9%A1%B9%E7%9B%AE/</id>
+    <published>2020-12-29T08:48:04.574Z</published>
+    <updated>2020-12-14T08:32:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;从零构建一个wbpack项目&quot;&gt;&lt;a href=&quot;#从零构建一个wbpack项目&quot; class=&quot;headerlink&quot; title=&quot;从零构建一个wbpack项目&quot;&gt;&lt;/a&gt;从零构建一个wbpack项目&lt;/h1&gt;&lt;h3 id=&quot;1、新建项目&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/data-cz/2020/12/29/webpack%E7%9A%84%E5%BC%82%E6%AD%A5%E5%8A%A0%E8%BD%BD%E5%8F%8A%E5%88%86%E5%8C%85%E7%AD%96%E7%95%A5/"/>
+    <id>https://github.com/data-cz/2020/12/29/webpack%E7%9A%84%E5%BC%82%E6%AD%A5%E5%8A%A0%E8%BD%BD%E5%8F%8A%E5%88%86%E5%8C%85%E7%AD%96%E7%95%A5/</id>
+    <published>2020-12-29T08:48:04.573Z</published>
+    <updated>2020-12-14T08:32:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;webpack-异步加载原理&quot;&gt;&lt;a href=&quot;#webpack-异步加载原理&quot; class=&quot;headerlink&quot; title=&quot;webpack 异步加载原理&quot;&gt;&lt;/a&gt;webpack 异步加载原理&lt;/h2&gt;&lt;p&gt;&lt;code&gt;webpack</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/data-cz/2020/12/29/webpack%E6%8F%92%E4%BB%B6%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90/"/>
+    <id>https://github.com/data-cz/2020/12/29/webpack%E6%8F%92%E4%BB%B6%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90/</id>
+    <published>2020-12-29T08:48:04.572Z</published>
+    <updated>2020-12-14T08:32:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;webpack-插件原理&quot;&gt;&lt;a href=&quot;#webpack-插件原理&quot; class=&quot;headerlink&quot; title=&quot;webpack 插件原理&quot;&gt;&lt;/a&gt;webpack 插件原理&lt;/h1&gt;&lt;p&gt;在 webpack 中，专注于处理 webpack</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/data-cz/2020/12/29/webpack%E4%BC%98%E5%8C%96%E6%89%93%E5%8C%85%E5%A4%A7%E5%85%A8/"/>
+    <id>https://github.com/data-cz/2020/12/29/webpack%E4%BC%98%E5%8C%96%E6%89%93%E5%8C%85%E5%A4%A7%E5%85%A8/</id>
+    <published>2020-12-29T08:48:04.571Z</published>
+    <updated>2020-12-14T08:32:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;webpack-优化打包大全&quot;&gt;&lt;a href=&quot;#webpack-优化打包大全&quot; class=&quot;headerlink&quot; title=&quot;webpack 优化打包大全&quot;&gt;&lt;/a&gt;webpack</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/data-cz/2020/12/29/2020%E5%B9%B4%E4%BD%A0%E4%B8%8D%E8%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84webpack%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/"/>
+    <id>https://github.com/data-cz/2020/12/29/2020%E5%B9%B4%E4%BD%A0%E4%B8%8D%E8%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84webpack%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/</id>
+    <published>2020-12-29T08:48:04.570Z</published>
+    <updated>2020-12-14T08:32:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/data-cz/2020/12/29/%E8%B0%88%E8%B0%88%E6%95%B0%E6%8D%AE%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86%E5%92%8C%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E6%98%93%E7%89%88vuex/"/>
+    <id>https://github.com/data-cz/2020/12/29/%E8%B0%88%E8%B0%88%E6%95%B0%E6%8D%AE%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86%E5%92%8C%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E6%98%93%E7%89%88vuex/</id>
+    <published>2020-12-29T08:48:04.568Z</published>
+    <updated>2020-12-14T08:32:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;数据状态管理&quot;&gt;&lt;a href=&quot;#数据状态管理&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/data-cz/2020/12/29/%E6%80%BB%E7%BB%93vue%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E4%B9%8B%E9%AB%98%E7%BA%A7%E5%BA%94%E7%94%A8%E7%AF%87/"/>
+    <id>https://github.com/data-cz/2020/12/29/%E6%80%BB%E7%BB%93vue%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E4%B9%8B%E9%AB%98%E7%BA%A7%E5%BA%94%E7%94%A8%E7%AF%87/</id>
+    <published>2020-12-29T08:48:04.567Z</published>
+    <updated>2020-12-14T08:32:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;Vue-use&quot;&gt;&lt;a href=&quot;#Vue-use&quot; class=&quot;headerlink&quot; title=&quot;Vue.use&quot;&gt;&lt;/a&gt;Vue.use&lt;/h3&gt;&lt;p&gt;我们使用的第三方 Vue.js</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/data-cz/2020/12/29/%E6%80%BB%E7%BB%93vue%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E4%B9%8B%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
+    <id>https://github.com/data-cz/2020/12/29/%E6%80%BB%E7%BB%93vue%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E4%B9%8B%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7/</id>
+    <published>2020-12-29T08:48:04.566Z</published>
+    <updated>2020-12-14T08:32:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;监听组件的生命周期&quot;&gt;&lt;a href=&quot;#监听组件的生命周期&quot; class=&quot;headerlink&quot; title=&quot;监听组件的生命周期&quot;&gt;&lt;/a&gt;监听组件的生命周期&lt;/h3&gt;&lt;p&gt;比如有父组件 Parent 和子组件 Child，如果父组件监听到子组件挂载</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/data-cz/2020/12/29/%E6%80%BB%E7%BB%93vue%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E4%B9%8B%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E7%AF%87/"/>
+    <id>https://github.com/data-cz/2020/12/29/%E6%80%BB%E7%BB%93vue%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E4%B9%8B%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E7%AF%87/</id>
+    <published>2020-12-29T08:48:04.564Z</published>
+    <updated>2020-12-14T08:32:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;Vue-的优缺点是什么&quot;&gt;&lt;a href=&quot;#Vue-的优缺点是什么&quot; class=&quot;headerlink&quot; title=&quot;Vue 的优缺点是什么&quot;&gt;&lt;/a&gt;Vue</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/data-cz/2020/12/29/%E5%88%86%E4%BA%AB8%E4%B8%AAVue%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8C%87%E4%BB%A4/"/>
+    <id>https://github.com/data-cz/2020/12/29/%E5%88%86%E4%BA%AB8%E4%B8%AAVue%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8C%87%E4%BB%A4/</id>
+    <published>2020-12-29T08:48:04.563Z</published>
+    <updated>2020-12-14T08:32:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Vue-自定义指令&quot;&gt;&lt;a href=&quot;#Vue-自定义指令&quot; class=&quot;headerlink&quot; title=&quot;Vue 自定义指令&quot;&gt;&lt;/a&gt;Vue 自定义指令&lt;/h1&gt;&lt;p&gt;在 Vue，除了核心功能默认内置的指令 ( v-model 和 v-show</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/data-cz/2020/12/29/%E4%BB%8E%20js%20%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AF%E7%9C%8B%20Vue.nextTick%20%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8C%E6%89%A7%E8%A1%8C%E6%9C%BA%E5%88%B6/"/>
+    <id>https://github.com/data-cz/2020/12/29/%E4%BB%8E%20js%20%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AF%E7%9C%8B%20Vue.nextTick%20%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8C%E6%89%A7%E8%A1%8C%E6%9C%BA%E5%88%B6/</id>
+    <published>2020-12-29T08:48:04.562Z</published>
+    <updated>2020-12-14T08:32:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;vue-nextTick&quot;&gt;&lt;a href=&quot;#vue-nextTick&quot; class=&quot;headerlink&quot; title=&quot;vue.$nextTick&quot;&gt;&lt;/a&gt;vue.$nextTick&lt;/h1&gt;&lt;p&gt;Vue</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/data-cz/2020/12/29/%E8%B0%88%E8%B0%88%E5%85%B3%E4%BA%8E%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD%E9%82%A3%E4%BA%9B%E4%BA%8B/"/>
+    <id>https://github.com/data-cz/2020/12/29/%E8%B0%88%E8%B0%88%E5%85%B3%E4%BA%8E%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD%E9%82%A3%E4%BA%9B%E4%BA%8B/</id>
+    <published>2020-12-29T08:48:04.558Z</published>
+    <updated>2020-12-14T08:32:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;前端开发中总免不了关于文件的上传、下载需求。下面来总结一下常用的方法，欢迎讨论和吐槽。&lt;/p&gt;
+&lt;h3 id=&quot;form-表单提交&quot;&gt;&lt;a href=&quot;#form-表单提交&quot; class=&quot;headerlink&quot; title=&quot;form 表单提交&quot;&gt;&lt;/a&gt;form</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/data-cz/2020/12/29/%E6%B5%85%E8%B0%88webscoket%E5%8E%9F%E7%90%86%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/"/>
+    <id>https://github.com/data-cz/2020/12/29/%E6%B5%85%E8%B0%88webscoket%E5%8E%9F%E7%90%86%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/</id>
+    <published>2020-12-29T08:48:04.557Z</published>
+    <updated>2020-12-14T08:32:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;什么是-webSocket&quot;&gt;&lt;a href=&quot;#什么是-webSocket&quot; class=&quot;headerlink&quot; title=&quot;什么是 webSocket&quot;&gt;&lt;/a&gt;什么是 webSocket&lt;/h3&gt;&lt;p&gt;WebSocket 是一种在单个 TCP</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/data-cz/2020/12/29/%E6%80%BB%E7%BB%93%E7%A7%BB%E5%8A%A8%E7%AB%AFH5%E5%BC%80%E5%8F%91%E5%B8%B8%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
+    <id>https://github.com/data-cz/2020/12/29/%E6%80%BB%E7%BB%93%E7%A7%BB%E5%8A%A8%E7%AB%AFH5%E5%BC%80%E5%8F%91%E5%B8%B8%E7%94%A8%E6%8A%80%E5%B7%A7/</id>
+    <published>2020-12-29T08:48:04.556Z</published>
+    <updated>2020-12-14T08:32:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;html-篇&quot;&gt;&lt;a href=&quot;#html-篇&quot; class=&quot;headerlink&quot; title=&quot;html 篇&quot;&gt;&lt;/a&gt;html 篇&lt;/h3&gt;&lt;h4 id=&quot;常用的meta属性设置&quot;&gt;&lt;a href=&quot;#常用的meta属性设置&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/data-cz/2020/12/29/%E6%80%BB%E7%BB%93%E5%87%A0%E4%B8%AA%E7%A7%BB%E5%8A%A8%E7%AB%AFH5%E8%BD%AF%E9%94%AE%E7%9B%98%E7%9A%84%E5%A4%A7%E5%9D%91/"/>
+    <id>https://github.com/data-cz/2020/12/29/%E6%80%BB%E7%BB%93%E5%87%A0%E4%B8%AA%E7%A7%BB%E5%8A%A8%E7%AB%AFH5%E8%BD%AF%E9%94%AE%E7%9B%98%E7%9A%84%E5%A4%A7%E5%9D%91/</id>
+    <published>2020-12-29T08:48:04.555Z</published>
+    <updated>2020-12-14T08:32:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1、部分机型软键盘弹起挡住原来的视图&quot;&gt;&lt;a href=&quot;#1、部分机型软键盘弹起挡住原来的视图&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/data-cz/2020/12/29/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B9%8B%E5%9B%BE%E7%89%87%E6%87%92%E5%8A%A0%E8%BD%BD/"/>
+    <id>https://github.com/data-cz/2020/12/29/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B9%8B%E5%9B%BE%E7%89%87%E6%87%92%E5%8A%A0%E8%BD%BD/</id>
+    <published>2020-12-29T08:48:04.554Z</published>
+    <updated>2020-12-14T08:32:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;图片懒加载&quot;&gt;&lt;a href=&quot;#图片懒加载&quot; class=&quot;headerlink&quot; title=&quot;图片懒加载&quot;&gt;&lt;/a&gt;图片懒加载&lt;/h1&gt;&lt;p&gt;在类电商类项目，往往存在大量的图片，如 banner</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/data-cz/2020/12/29/%E5%89%8D%E7%AB%AF%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83/"/>
+    <id>https://github.com/data-cz/2020/12/29/%E5%89%8D%E7%AB%AF%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83/</id>
+    <published>2020-12-29T08:48:04.553Z</published>
+    <updated>2020-12-14T08:32:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;vue-开发规范及代码优化&quot;&gt;&lt;a href=&quot;#vue-开发规范及代码优化&quot; class=&quot;headerlink&quot; title=&quot;vue 开发规范及代码优化&quot;&gt;&lt;/a&gt;vue 开发规范及代码优化&lt;/h1&gt;&lt;p&gt;所谓无规矩不成方圆，前端时间在团队</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
